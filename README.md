@@ -1,2 +1,2 @@
-# ShallowMind
+# ShallowMinds
 AI Generated Text Classifier
